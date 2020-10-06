@@ -13,31 +13,31 @@ steamPage:
         عند شراءك اللعبة على ستيم (Steam) تحصل على الإصدار الكامل للعبة، ولكن يمكن أيضاً لعبة نسخة تجريبية على موقع shapez.io  ثم يمكنك القرار لاحقا
     title_advantages: ميزات نسخة الحاسوب
     advantages:
-        - <b>12 New Level</b> for a total of 26 levels
-        - <b>18 New Buildings</b> for a fully automated factory!
-        - <b>20 Upgrade Tiers</b> for many hours of fun!
+        - <b>12 مرحلة جديدة</b> بمجموع 26 مرحلة
+        - <b>18 مبنى جديد</b> لتشغيل آلي بالكامل
+        - <b>20 مستوى تطويري جديد</b> لساعات عديدة من المرح
         - <b>Wires Update</b> for an entirely new dimension!
         - <b>Dark Mode</b>!
-        - Unlimited Savegames
-        - Unlimited Markers
-        - Support me! ❤️
-    title_future: Planned Content
+        - عدد لانهائي من حفظ المراحل
+        - عدد لانهائي تحديد الأماكن
+        - ادعموني ❤️
+    title_future: الخطط المستقبلية
     planned:
-        - Blueprint Library (Standalone Exclusive)
-        - Steam Achievements
+        - مكتبة خرائط بناء (Standalone Exclusive)
+        - انجازات ستيم (Steam)
         - Puzzle Mode
-        - Minimap
+        - خريطة صغيرة
         - Mods
         - Sandbox mode
-        - ... and a lot more!
-    title_open_source: This game is open source!
-    title_links: Links
+        - ... والمزيد
+    title_open_source: هذه اللعبة مفتوحة المصدر
+    title_links: روابط
     links:
         discord: Official Discord
         roadmap: Roadmap
         subreddit: Subreddit
         source_code: Source code (GitHub)
-        translate: Help translate
+        translate: ساعد بالترجمة
     text_open_source: >-
         Anybody can contribute, I'm actively involved in the community and
         attempt to review all suggestions and take feedback into consideration
@@ -45,8 +45,8 @@ steamPage:
 
         Be sure to check out my trello board for the full roadmap!
 global:
-    loading: Loading
-    error: Error
+    loading: تحميل
+    error: خطأ
     thousandsDivider: ","
     decimalSeparator: .
     suffix:
@@ -56,18 +56,18 @@ global:
         trillions: T
     infinite: inf
     time:
-        oneSecondAgo: one second ago
-        xSecondsAgo: <x> seconds ago
-        oneMinuteAgo: one minute ago
-        xMinutesAgo: <x> minutes ago
-        oneHourAgo: one hour ago
-        xHoursAgo: <x> hours ago
-        oneDayAgo: one day ago
-        xDaysAgo: <x> days ago
-        secondsShort: <seconds>s
-        minutesAndSecondsShort: <minutes>m <seconds>s
-        hoursAndMinutesShort: <hours>h <minutes>m
-        xMinutes: <x> minutes
+        oneSecondAgo: منذ ثانية واحدة
+        xSecondsAgo: <x> ثواني مضت
+        oneMinuteAgo: منذ دقيقة واحدة
+        xMinutesAgo: <x> دقائق مضت
+        oneHourAgo: منذ ساعة واحدة
+        xHoursAgo: <x> ساعات مضت
+        oneDayAgo: منذ يوم واحد
+        xDaysAgo: <x> أيام مضت
+        secondsShort: <seconds>ث
+        minutesAndSecondsShort: <minutes>د <seconds>ث
+        hoursAndMinutesShort: <hours>س <minutes>د
+        xMinutes: <x> دقائق
     keys:
         tab: TAB
         control: CTRL
@@ -76,43 +76,43 @@ global:
         shift: SHIFT
         space: SPACE
 demoBanners:
-    title: Demo Version
-    intro: Get the standalone to unlock all features!
+    title: الإصدار التجريبي
+    intro: احصل على نسخة الحاسوب لتلعب بكل المميزات
 mainMenu:
-    play: Play
-    continue: Continue
-    newGame: New Game
+    play: إلعب
+    continue: استمر
+    newGame: شوط جديد
     changelog: Changelog
-    subreddit: Reddit
-    importSavegame: Import
-    openSourceHint: This game is open source!
+    subreddit: موقع رديت
+    importSavegame: استيراد
+    openSourceHint: هذه اللعبة مفتوحة المصدر!
     discordLink: Official Discord Server
-    helpTranslate: Help translate!
-    madeBy: Made by <author-link>
-    browserWarning: Sorry, but the game is known to run slow on your browser! Get
-        the standalone version or download chrome for the full experience.
-    savegameLevel: Level <x>
-    savegameLevelUnknown: Unknown Level
-    savegameUnnamed: Unnamed
+    helpTranslate: ساعد بالترجمة!
+    madeBy: صنع من قبل <author-link>
+    browserWarning: عذرا، ولكن من المتوقع أن تكون اللعبة بطيئة على متصفحك، إحصل
+    على نسخة الحاسوب أو قم تحميل كروم (Chrome) للحصول على أداء كامل.
+        savegameLevel: مرحلة <x>
+    savegameLevelUnknown: مرحلة غير معروفة
+    savegameUnnamed: غير مسمى
 dialogs:
     buttons:
-        ok: OK
-        delete: Delete
-        cancel: Cancel
-        later: Later
-        restart: Restart
-        reset: Reset
-        getStandalone: Get Standalone
-        deleteGame: I know what I am doing
-        viewUpdate: View Update
-        showUpgrades: Show Upgrades
-        showKeybindings: Show Keybindings
+        ok: موافق
+        delete: حذف
+        cancel: إلغاء
+        later: لاحقاً
+        restart: إعادة تشغيل
+        reset: إعادة
+        getStandalone: إحصل على نسخة الحاسوب
+        deleteGame: أنا أعلم ماذا أفعل
+        viewUpdate: عرض التحديثات
+        showUpgrades: عرض التطويرات
+        showKeybindings: عرض أزرار الكيبورد المستخدمة
     importSavegameError:
-        title: Import Error
-        text: "Failed to import your savegame:"
+        title: خطأ بالإستيراد
+        text: "فشل تحميل ملف شوط المحفوظ."
     importSavegameSuccess:
-        title: Savegame Imported
-        text: Your savegame has been successfully imported.
+        title: نجاح الإستيراد
+        text: تم استيراد شوطك المحفوظ بنجاح  
     gameLoadFailure:
         title: Game is broken
         text: "Failed to load your savegame:"
