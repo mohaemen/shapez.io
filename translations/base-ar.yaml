@@ -117,16 +117,15 @@ dialogs:
         title: Game is broken
         text: "Failed to load your savegame:"
     confirmSavegameDelete:
-        title: Confirm deletion
-        text: Are you sure you want to delete the following game?<br><br>
-            '<savegameName>' at level <savegameLevel><br><br> This can not be
-            undone!
+        title: تأكيد الحذف
+        text: هل أنت متأكد من حذف الشوط المحفوظ?<br><br>
+            '<savegameName>' بالمرحلة <savegameLevel><br><br> لايمكنك إستعادة الملف.
     savegameDeletionError:
-        title: Failed to delete
-        text: "Failed to delete the savegame:"
+        title: فشل الحذف
+        text: "فشل عملية حذف الملف المحفوظ:"
     restartRequired:
-        title: Restart required
-        text: You need to restart the game to apply the settings.
+        title: إعادة التشغيل مطلوبة
+        text: عليك إعادة تشغيل اللعبة لتفعيل الإعدادت.
     editKeybinding:
         title: Change Keybinding
         desc: Press the key or mouse button you want to assign, or escape to cancel.
@@ -142,7 +141,7 @@ dialogs:
             demo. Consider getting the standalone version for the full
             experience!
     oneSavegameLimit:
-        title: Limited savegames
+        title: أشواط محفوظة محددة
         desc: You can only have one savegame at a time in the demo version. Please
             remove the existing one or get the standalone version!
     updateSummary:
